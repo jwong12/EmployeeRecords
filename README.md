@@ -1,6 +1,6 @@
-# EmployeesWebApp
+# EmployeesJSP
 
-This is a Java Web application that uses HttpServlets and Java Beans to perform CRUD operations while dynamically generating the content on the server side. The Java classes were created using Object Oriented Programming principles such as Encapsulation, Abstraction, Polymorphism and Inheritance. The MVC design pattern was used to separate the Presentation, Controller, Business and Data layers.
+A JavaServer Pages web application that uses HttpServlets, Java Beans and MySQL to manage employee records through a browser. Achieved high cohesion and loose coupling by applying the principles of Object Oriented design to the Java classes and using the MVC pattern to separate the business, presentation and controller layers. Achieved high level of separation between the database access class and the business class by using the DAO pattern.
 
 ## Getting Started
 
